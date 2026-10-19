@@ -1,0 +1,277 @@
+[
+  {
+    "q": "Apakah maksud nutrien?",
+    "o": [
+      "Bahan dalam makanan yang diperlukan oleh tubuh",
+      "Warna pada pembungkus makanan",
+      "Bahan untuk mencuci pinggan",
+      "Hiasan pada makanan"
+    ],
+    "a": 0,
+    "e": "Nutrien ialah bahan dalam makanan yang membantu tubuh mendapatkan tenaga, membesar dan kekal sihat."
+  },
+  {
+    "q": "Yang manakah contoh nutrien?",
+    "o": [
+      "Karbohidrat",
+      "Plastik",
+      "Dakwat",
+      "Sabun"
+    ],
+    "a": 0,
+    "e": "Karbohidrat ialah salah satu nutrien. Nutrien lain termasuk lemak, protein, vitamin dan garam mineral."
+  },
+  {
+    "q": "Nutrien manakah yang biasanya menjadi sumber tenaga utama badan?",
+    "o": [
+      "Karbohidrat",
+      "Vitamin",
+      "Air berwarna",
+      "Garam berlebihan"
+    ],
+    "a": 0,
+    "e": "Karbohidrat membekalkan tenaga untuk aktiviti harian seperti berjalan, belajar dan bermain."
+  },
+  {
+    "q": "Makanan manakah kaya dengan karbohidrat?",
+    "o": [
+      "Nasi",
+      "Ikan",
+      "Telur",
+      "Bayam"
+    ],
+    "a": 0,
+    "e": "Nasi, roti, mi dan ubi ialah contoh makanan yang membekalkan karbohidrat."
+  },
+  {
+    "q": "Protein membantu tubuh untuk…",
+    "o": [
+      "Membina dan membaiki tisu badan",
+      "Menukar label makanan menjadi warna-warni",
+      "Menggantikan tidur",
+      "Menyebabkan makanan tahan selama-lamanya"
+    ],
+    "a": 0,
+    "e": "Protein penting untuk pertumbuhan serta pembinaan dan pembaikan tisu badan."
+  },
+  {
+    "q": "Yang manakah contoh makanan yang membekalkan protein?",
+    "o": [
+      "Ikan",
+      "Gula-gula sahaja",
+      "Air kosong",
+      "Garam meja sahaja"
+    ],
+    "a": 0,
+    "e": "Ikan, ayam, telur, kekacang dan tauhu ialah antara sumber protein."
+  },
+  {
+    "q": "Apakah peranan vitamin secara umum?",
+    "o": [
+      "Membantu tubuh berfungsi dan mengekalkan kesihatan",
+      "Menggantikan semua makanan lain",
+      "Menjadikan makanan sentiasa manis",
+      "Membekalkan semua tenaga badan"
+    ],
+    "a": 0,
+    "e": "Vitamin diperlukan dalam kuantiti kecil untuk menyokong pelbagai fungsi tubuh."
+  },
+  {
+    "q": "Buah-buahan dan sayur-sayuran lazimnya membekalkan…",
+    "o": [
+      "Vitamin dan garam mineral",
+      "Plastik dan dakwat",
+      "Bahan pencuci",
+      "Hanya lemak"
+    ],
+    "a": 0,
+    "e": "Buah dan sayur membekalkan pelbagai vitamin, mineral dan serat."
+  },
+  {
+    "q": "Lemak dalam pemakanan yang sihat…",
+    "o": [
+      "Membekalkan tenaga dan membantu tubuh menyerap vitamin tertentu",
+      "Perlu dielakkan sepenuhnya",
+      "Tidak mempunyai sebarang fungsi",
+      "Boleh dimakan tanpa had"
+    ],
+    "a": 0,
+    "e": "Lemak mempunyai fungsi penting, tetapi pilih sumber yang lebih sihat dan ambil secara sederhana."
+  },
+  {
+    "q": "Mengapakah kita perlu mengambil pelbagai jenis makanan?",
+    "o": [
+      "Untuk mendapatkan pelbagai nutrien",
+      "Supaya hanya satu nutrien masuk ke badan",
+      "Supaya tidak perlu minum air",
+      "Untuk mengelakkan semua aktiviti fizikal"
+    ],
+    "a": 0,
+    "e": "Kepelbagaian makanan membantu membekalkan nutrien yang berbeza untuk keperluan tubuh."
+  },
+  {
+    "q": "Apakah tujuan membaca label makanan?",
+    "o": [
+      "Membantu membuat pilihan makanan yang lebih bijak",
+      "Untuk menilai warna tulisan sahaja",
+      "Untuk mengetahui harga tanpa melihat maklumat lain",
+      "Supaya boleh makan tanpa had"
+    ],
+    "a": 0,
+    "e": "Label membantu pengguna menilai maklumat produk dan memilih makanan dengan lebih bijak."
+  },
+  {
+    "q": "Maklumat manakah perlu diperiksa pada label makanan?",
+    "o": [
+      "Tarikh luput",
+      "Warna kasut pembeli",
+      "Nama kucing pengeluar",
+      "Cuaca minggu depan"
+    ],
+    "a": 0,
+    "e": "Tarikh luput membantu kita mengetahui tempoh produk sesuai digunakan mengikut label."
+  },
+  {
+    "q": "Pada label, maklumat pemakanan biasanya membantu kita mengetahui…",
+    "o": [
+      "Kandungan tenaga dan nutrien",
+      "Bilangan murid dalam kelas",
+      "Waktu loceng sekolah",
+      "Saiz kasut"
+    ],
+    "a": 0,
+    "e": "Panel maklumat pemakanan boleh menyenaraikan tenaga dan kandungan nutrien bagi sajian atau kuantiti tertentu."
+  },
+  {
+    "q": "Jika dua minuman dibandingkan, apakah tindakan yang bijak?",
+    "o": [
+      "Bandingkan maklumat pemakanan dan kandungan gula",
+      "Pilih yang pembungkusnya paling berkilat sahaja",
+      "Pilih yang paling besar tanpa membaca label",
+      "Pilih secara rawak setiap kali"
+    ],
+    "a": 0,
+    "e": "Membandingkan label membolehkan kita membuat pilihan berdasarkan maklumat, bukan rupa pembungkus semata-mata."
+  },
+  {
+    "q": "Mengapa tarikh luput penting?",
+    "o": [
+      "Membantu mengelakkan penggunaan produk selepas tarikh yang dinyatakan",
+      "Menunjukkan warna makanan",
+      "Memberitahu markah kuiz",
+      "Menentukan siapa yang memasak"
+    ],
+    "a": 0,
+    "e": "Sentiasa semak tarikh dan ikut arahan penyimpanan pada bungkusan."
+  },
+  {
+    "q": "Apakah yang patut dilakukan jika label menunjukkan makanan telah luput?",
+    "o": [
+      "Jangan makan; maklumkan kepada orang dewasa",
+      "Makan banyak-banyak",
+      "Padam tarikh itu",
+      "Beri kepada rakan"
+    ],
+    "a": 0,
+    "e": "Jangan ambil risiko. Beritahu ibu bapa, penjaga atau guru dan buang dengan cara yang sesuai."
+  },
+  {
+    "q": "Apakah maksud maklumat kandungan makanan pada label?",
+    "o": [
+      "Maklumat tentang bahan yang digunakan dalam produk",
+      "Senarai permainan di sekolah",
+      "Nama semua pembeli",
+      "Ramalan cuaca"
+    ],
+    "a": 0,
+    "e": "Senarai ramuan/kandungan membantu pengguna mengetahui bahan yang digunakan dalam produk."
+  },
+  {
+    "q": "Apakah yang wajar diperiksa jika seseorang mempunyai alahan makanan?",
+    "o": [
+      "Senarai ramuan dan maklumat alergen pada label",
+      "Warna kotak sahaja",
+      "Gambar pada bungkusan sahaja",
+      "Harga sahaja"
+    ],
+    "a": 0,
+    "e": "Semak ramuan dan amaran alergen, dan minta bantuan orang dewasa jika tidak pasti."
+  },
+  {
+    "q": "Label halal yang diiktiraf membantu pengguna menyemak…",
+    "o": [
+      "Status halal produk",
+      "Jumlah kerja sekolah",
+      "Berat beg sekolah",
+      "Warna buah"
+    ],
+    "a": 0,
+    "e": "Semak tanda halal yang sah dan diiktiraf; jangan bergantung pada simbol yang meragukan."
+  },
+  {
+    "q": "Jika saiz sajian pada label ialah 1 cawan, angka nutrien biasanya merujuk kepada…",
+    "o": [
+      "Sajian yang dinyatakan pada label",
+      "Semua makanan yang dimakan sepanjang hidup",
+      "Satu lori makanan",
+      "Pembungkus sahaja"
+    ],
+    "a": 0,
+    "e": "Perhatikan saiz sajian dan bilangan sajian setiap bungkusan ketika membaca maklumat pemakanan."
+  },
+  {
+    "q": "Antara berikut, pilihan manakah paling bijak untuk snek harian?",
+    "o": [
+      "Buah segar dan air kosong",
+      "Minuman sangat manis setiap kali",
+      "Gula-gula sebagai pengganti makan",
+      "Makanan luput"
+    ],
+    "a": 0,
+    "e": "Buah dan air kosong ialah contoh pilihan snek/minuman yang lebih menyokong amalan sihat."
+  },
+  {
+    "q": "Mengapakah kita tidak patut menilai makanan berdasarkan iklan sahaja?",
+    "o": [
+      "Iklan tidak menggantikan semakan label dan keperluan pemakanan",
+      "Semua iklan semestinya salah",
+      "Label tidak berguna",
+      "Iklan boleh menentukan kesihatan seseorang dengan tepat"
+    ],
+    "a": 0,
+    "e": "Gunakan maklumat label dan pertimbangkan kepelbagaian serta kesederhanaan dalam pemakanan."
+  },
+  {
+    "q": "Apakah tindakan yang sesuai jika tulisan pada label terlalu kecil atau tidak difahami?",
+    "o": [
+      "Minta bantuan orang dewasa untuk membacanya",
+      "Buat tekaan dan terus makan",
+      "Koyakkan label",
+      "Abaikan semua maklumat"
+    ],
+    "a": 0,
+    "e": "Minta bantuan ibu bapa, penjaga atau guru supaya maklumat difahami sebelum membuat pilihan."
+  },
+  {
+    "q": "Pernyataan manakah betul tentang nutrien?",
+    "o": [
+      "Tubuh memerlukan pelbagai nutrien dalam jumlah yang sesuai",
+      "Satu jenis makanan sahaja sentiasa mencukupi",
+      "Vitamin perlu diambil tanpa had",
+      "Semua lemak mesti dielakkan"
+    ],
+    "a": 0,
+    "e": "Pemakanan seimbang melibatkan pelbagai makanan dan jumlah yang sesuai dengan keperluan individu."
+  },
+  {
+    "q": "Apakah langkah terbaik sebelum membeli makanan berbungkus?",
+    "o": [
+      "Semak tarikh luput, ramuan dan maklumat pemakanan",
+      "Pilih berdasarkan warna sahaja",
+      "Beli tanpa memeriksa bungkusan",
+      "Pilih produk yang sudah terbuka"
+    ],
+    "a": 0,
+    "e": "Semakan label ialah amalan pengguna bijak dan selaras dengan pembelajaran membaca maklumat nutrien."
+  }
+]
